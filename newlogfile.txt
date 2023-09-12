@@ -1,0 +1,9 @@
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0aaa557413b854fa931323f61ac893e5
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0a00611dc31f7a72a5827482b43be4bc
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0aaa557413b854fa931323f61ac893e5
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0ab288b64ffc0eb9306665caacaba38c
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0acb11988fbc0ec3437ce31d71ab28d8
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0ab61a2da442f3f3c44e18e8e4e57892
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0aa2da38aa45a449df90eecc94dbb6da
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0a821985895a1466641d4a23c5444f1a
+/home/sumant/ELF-Miner-master/./elfs/VirusShare_0aa29e2f59ed3fec903361d2c0ed8833

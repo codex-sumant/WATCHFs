@@ -1,0 +1,7 @@
+/home/sumant/WATCHFs/elfs/cc
+/home/sumant/WATCHFs/elfs/VirusShare_0acb11988fbc0ec3437ce31d71ab28d8
+/home/sumant/WATCHFs/elfs/gcc
+/home/sumant/WATCHFs/elfs/VirusShare_0ab61a2da442f3f3c44e18e8e4e57892
+/home/sumant/WATCHFs/elfs/VirusShare_0a821985895a1466641d4a23c5444f1a
+/home/sumant/WATCHFs/elfs/c++
+/home/sumant/WATCHFs/elfs/crontab
